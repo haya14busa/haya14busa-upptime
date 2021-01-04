@@ -7,7 +7,7 @@ sites:
   - name: haya14busa.dev
     url: https://haya14busa.dev
   - name: haya14busa.com
-    url: https://haya14busa.com
+    url: http://haya14busa.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
