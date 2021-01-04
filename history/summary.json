@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/haya14busa.com",
     "slug": "haya14busa-com",
     "status": "up",
-    "uptime": "1.14%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "1.14%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "1.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 433,
     "timeDay": 433,
     "timeWeek": 433,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {
-      "2021-01-04": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
